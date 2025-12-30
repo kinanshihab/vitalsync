@@ -2,7 +2,7 @@
 
 VitalSync is a real-time health monitoring dashboard designed to help healthcare providers track patient vital signs and receive critical alerts instantly.
 
-![VitalSync Dashboard](https://github.com/kinanshihab/my-website/blob/main/images/projects/vitalsync-full.png?raw=true)
+![VitalSync Dashboard](public/vitalsync-dashboard.png)
 
 ## Features
 
